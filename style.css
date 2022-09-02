@@ -1,0 +1,24 @@
+.rw{
+    width: 1400px;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    margin-right: 100px;
+}
+.yellow{
+    padding: 1%;
+    background: #fdfd53;
+}
+.gr{
+    background: #75f94b;
+}
+.blue{
+    padding: 1%;
+    background: #71a1f7;
+}
+.pink{
+    padding: 1%;
+    background: #ec6f9b;
+}
+.text{
+    text-align: center;
+}
